@@ -8,6 +8,7 @@
   "STranslate.Plugin.Translate.Ollama",
   "STranslate.Plugin.Translate.OpenRouter",
   "STranslate.Plugin.Translate.QwenMt",
+  "STranslate.Plugin.Translate.YoudaoDict",
   "boxi-wangji/STranslate.Plugin.Translate.YoudaoWeb",
   "STranslate.Plugin.Ocr.Ollama",
   "STranslate.Plugin.Ocr.Paddle",
