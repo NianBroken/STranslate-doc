@@ -30,5 +30,6 @@
   "muutot/STranslate.Plugin.Translate.Tencent",
   "xiangyuw1/STranslate.Plugin.Translate.XiaomiMiMo",
   "xiangyuw1/STranslate.Plugin.Translate.FreeDict"  ,
-  "xiaopeng66/STranslate.Plugin.Translate.UApiPro"
+  "xiaopeng66/STranslate.Plugin.Translate.UApiPro",
+  "hellonone/STranslate.Plugin.Translate.MicrosoftBingDict"
 ]
