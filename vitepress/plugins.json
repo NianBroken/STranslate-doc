@@ -31,5 +31,6 @@
   "xiangyuw1/STranslate.Plugin.Translate.XiaomiMiMo",
   "xiangyuw1/STranslate.Plugin.Translate.FreeDict"  ,
   "xiaopeng66/STranslate.Plugin.Translate.UApiPro",
-  "hellonone/STranslate.Plugin.Translate.MicrosoftBingDict"
+  "hellonone/STranslate.Plugin.Translate.MicrosoftBingDict",
+  "SchweppesSoda/STranslate.Plugin.Translate.Bailian"
 ]
