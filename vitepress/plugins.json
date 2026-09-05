@@ -1,4 +1,6 @@
 [
+  "NianBroken/STranslate.Plugin.Translate.LanguageModel",
+  "NianBroken/STranslate.Plugin.Ocr.VisionModel",
   "STranslate.Plugin.Translate.Ali",
   "STranslate.Plugin.Translate.Claude",
   "STranslate.Plugin.Translate.DeepLX",
@@ -29,7 +31,7 @@
   "evoke322/STranslate.Plugin.Ocr.WindowsNative",
   "muutot/STranslate.Plugin.Translate.Tencent",
   "xiangyuw1/STranslate.Plugin.Translate.XiaomiMiMo",
-  "xiangyuw1/STranslate.Plugin.Translate.FreeDict"  ,
+  "xiangyuw1/STranslate.Plugin.Translate.FreeDict",
   "xiaopeng66/STranslate.Plugin.Translate.UApiPro",
   "hellonone/STranslate.Plugin.Translate.MicrosoftBingDict",
   "SchweppesSoda/STranslate.Plugin.Translate.Bailian"
