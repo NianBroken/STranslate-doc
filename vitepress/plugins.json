@@ -1,6 +1,4 @@
 [
-  "NianBroken/STranslate.Plugin.Translate.LanguageModel",
-  "NianBroken/STranslate.Plugin.Ocr.VisionModel",
   "STranslate.Plugin.Translate.Ali",
   "STranslate.Plugin.Translate.Claude",
   "STranslate.Plugin.Translate.DeepLX",
@@ -34,5 +32,7 @@
   "xiangyuw1/STranslate.Plugin.Translate.FreeDict",
   "xiaopeng66/STranslate.Plugin.Translate.UApiPro",
   "hellonone/STranslate.Plugin.Translate.MicrosoftBingDict",
-  "SchweppesSoda/STranslate.Plugin.Translate.Bailian"
+  "SchweppesSoda/STranslate.Plugin.Translate.Bailian",
+  "NianBroken/STranslate.Plugin.Translate.LanguageModel",
+  "NianBroken/STranslate.Plugin.Ocr.VisionModel"
 ]
